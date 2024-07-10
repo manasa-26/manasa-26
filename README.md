@@ -1,6 +1,6 @@
 
-<h1 align="center">Hi 👋, I'm Manasa</h1>
-<h3 align="center">Welcome to my GitHub profile! I am Manasa a Graduaate in AIML i am passionate about Generative AI ,data science, machine learning, and software development. Here you’ll find a collection of my projects and contributions.</h3>
+<h1 align="center">Hello there 👋, I'm Manasa</h1>
+<h3 align="center">Welcome to my GitHub profile! I am Manasa a Graduaate in AIML i am passionate about Generative AI , data science, machine learning, and software development. Here you’ll find a collection of my projects and contributions.</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=manasa-26" alt="manasa-26" /></a> </p>
 
