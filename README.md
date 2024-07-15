@@ -1,7 +1,7 @@
 
 <h1 align="center">Hello there 👋, Fellow Humans</h1>
 <h3 align="center">I am Manasa a Graduaate in AIML i am passionate about Generative AI , data science, machine learning, and software development. Here you’ll find a collection of my projects and contributions.</h3>
-📫 How to reach me **manasa260302@gmail.com,**
+📫 How to reach me - **manasa260302@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
