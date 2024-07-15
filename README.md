@@ -1,9 +1,6 @@
 
 <h1 align="center">Hello there 👋, Fellow Humans</h1>
 <h3 align="center">I am Manasa a Graduaate in AIML i am passionate about Generative AI , data science, machine learning, and software development. Here you’ll find a collection of my projects and contributions.</h3>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=manasa-26" alt="manasa-26" /></a> </p>
-
 - 📫 How to reach me **manasa260302@gmail.com,**
 
 <h3 align="left">Connect with me:</h3>
@@ -19,6 +16,9 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=manasa-26&show_icons=true&locale=en" alt="manasa-26" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=manasa-26&" alt="manasa-26" /></p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=manasa-26" alt="manasa-26" /></a> </p>
+
 
 
 <!--
